@@ -438,4 +438,5 @@ MACRO_UP = 'U';
 MACRO_WAIT = 'W';
 
 // API server.
-API_SERVER = '/api';
+//API_SERVER = '/api';
+API_SERVER = 'http://localhost:5001/api';
